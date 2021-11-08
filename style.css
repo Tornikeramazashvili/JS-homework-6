@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Mono:wght@400;500&display=swap');
+
+
+.clock-area {
+  background-color: black;
+  width: 300px;
+  padding: 25px;
+  text-align: center;
+}
+
+#clock {
+    font-family: 'Red Hat Mono', monospace;
+  font-size: 34px;
+  color: cyan;
+}
